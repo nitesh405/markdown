@@ -1,3 +1,3 @@
 #dashboard!!!!
-![alt text](https://nitesh405.github.io/markdown/Media/Dish1.png)
+![alt text]({{ site.baseurl }}/markdown/Media/Dish1.png)
 

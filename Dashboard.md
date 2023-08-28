@@ -1,3 +1,3 @@
 #dashboard!!!!
-![alt text]({{ site.baseurl }}/Media/Dish1.png)
+![alt text]({{ page.baseurl }}/Media/Dish1.png)
 
